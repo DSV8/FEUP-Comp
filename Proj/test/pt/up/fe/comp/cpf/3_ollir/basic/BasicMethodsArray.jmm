@@ -1,0 +1,14 @@
+import Other;
+// import Person;
+
+class BasicMethods extends Other {
+    int a;
+
+    public int func4(){
+        int k;
+        a = 3;
+        k = 2 + a;
+        return k;
+    }
+
+}
